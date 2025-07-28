@@ -1,0 +1,14 @@
+Job Title: Data Science Intern
+Company: [Any mid to large-scale tech company/startup]
+Location: Remote / Hybrid (India-based)
+Duration: 2–3 months
+Responsibilities:Assist in developing machine learning models for predictive analytics.
+Perform data preprocessing, exploratory data analysis (EDA), and visualization using Python.
+Contribute to ongoing AI projects like object detection, recommendation systems, and NLP-based tools.
+Work on real datasets (e.g., from Kaggle) for classification, regression, and clustering tasks.
+Collaborate on research or product-oriented data science challenges (e.g., ADHD detection, sentiment analysis).
+Required Skills:
+Python, Java, MySQL, Machine Learning, Deep Learning, Computer Vision
+Experience with tools like Kaggle, GitHub
+Strong problem-solving and communication skills
+Familiarity with DSA, GenAI, and projects like MobileNet, recommendation systems
