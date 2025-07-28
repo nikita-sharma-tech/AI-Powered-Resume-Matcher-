@@ -27,7 +27,7 @@
 ## Installation
 
 1. **Clone repository**: <br>
-git clone <your-repo-link>
+git clone "https://github.com/nikita-sharma-tech/AI-Powered-Resume-Matcher-/tree/main"
 
 2. **Navigate to project folder**: <br>
 cd resume-matcher
