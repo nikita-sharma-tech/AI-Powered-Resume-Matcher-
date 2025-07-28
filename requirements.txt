@@ -1,0 +1,4 @@
+nltk
+ttkbootstrap
+PyPDF2
+pdfminer.six
