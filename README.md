@@ -55,8 +55,9 @@ python app.py
 ## Project Structure <br>
 ├── app.py                          # Main application file <br>
 ├── resume_match_backend            # Matching and NLP logic <br>
-├──                                                           <br>
+├──JobDescription.txt               # Sample job description  <br>
 ├── requirements.txt                # Python dependencies     <br>
+├──Sample_Resume.pdf                # This is sample resume <br>
 └── README.md                       # Project documentation    <br>
 
 ---
